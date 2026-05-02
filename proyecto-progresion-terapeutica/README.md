@@ -4,6 +4,17 @@ Proyecto de análisis y modelización orientado a reconstruir la evolución tera
 
 ---
 
+## Presentación del proyecto
+[Ver presentación (resumen ejecutivo)](presentacion.pdf)
+
+## Informe completo
+ [Ver informe detallado](informe.pdf)
+
+## Notebook
+[Ver análisis completo (HTML)](analisis.html)
+
+---
+
 ## 🧠 Contexto
 
 El síndrome metabólico representa un conjunto de patologías (hipertensión, dislipemia y diabetes) cuya coexistencia incrementa significativamente el riesgo cardiovascular.
@@ -96,7 +107,7 @@ No se dispone de datos clínicos directos → el estado del paciente se **infier
 
 ---
 
-## ⚠️ Limitaciones (CLAVE DEL PROYECTO)
+## ⚠️ Limitaciones
 
 Este proyecto está diseñado para mostrar no solo lo que el modelo hace, sino **dónde falla y por qué**:
 
@@ -117,7 +128,8 @@ Este proyecto está diseñado para mostrar no solo lo que el modelo hace, sino *
 - Identificación proactiva de pacientes de alto riesgo  
 - Seguimiento farmacoterapéutico personalizado  
 - Potencial integración en:
-  - farmacia comunitaria  
+  - farmacia comunitaria
+  - negocios de salud
   - programas de prevención  
 
 👉 Enfoque: **herramienta de apoyo a la decisión, no sustituto clínico**
