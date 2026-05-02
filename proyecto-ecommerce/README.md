@@ -1,6 +1,15 @@
 # Optimización de la conversión en e-commerce farmacéutico
 Modelo de machine learning aplicado para identificar factores que influyen en la conversión y apoyar la toma de decisiones.
 
+## Presentación del proyecto
+[Ver presentación (resumen ejecutivo)](presentacion.pdf)
+
+## Informe completo
+ [Ver informe detallado](informe.pdf)
+
+## Notebook
+[Ver análisis completo (HTML)](analisis.html)
+
 ## Contexto
 Análisis del comportamiento de usuarios en un entorno de e-commerce del sector farmacéutico, enfocado en la optimización del rendimiento digital y la conversión.
 
