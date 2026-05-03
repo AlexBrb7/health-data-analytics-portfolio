@@ -23,7 +23,7 @@ En la práctica clínica, la progresión de estas patologías se traduce en una 
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 - Analizar la evolución terapéutica de pacientes crónicos  
 - Identificar patrones de progresión clínica a partir del tratamiento  
@@ -32,7 +32,7 @@ En la práctica clínica, la progresión de estas patologías se traduce en una 
 
 ---
 
-## 🗃️ Datos
+##  Datos
 
 - Fuente: datos de dispensación farmacéutica (práctica real)  
 - Variables construidas a partir del consumo de medicamentos como proxy clínico  
@@ -41,12 +41,12 @@ En la práctica clínica, la progresión de estas patologías se traduce en una 
   - Colesterol: simvastatina  
   - Diabetes: metformina :contentReference[oaicite:1]{index=1}  
 
-📌 Enfoque clave:  
+Enfoque clave:  
 No se dispone de datos clínicos directos → el estado del paciente se **infiere a partir del tratamiento**, lo que convierte el problema en un caso realista de datos imperfectos.
 
 ---
 
-## 🔍 Análisis
+## Análisis
 
 ### 1. Reconstrucción longitudinal del paciente
 - Seguimiento temporal del tratamiento por paciente  
@@ -73,7 +73,7 @@ No se dispone de datos clínicos directos → el estado del paciente se **infier
 - La progresión ocurre de forma **gradual y acumulativa**  
 - La intensificación se concentra en pacientes con **mayor carga metabólica** :contentReference[oaicite:3]{index=3}  
 
-👉 Insight clave: el riesgo no depende de una variable aislada, sino de la **complejidad global del paciente**
+Insight clave: el riesgo no depende de una variable aislada, sino de la **complejidad global del paciente**
 
 ---
 
@@ -85,13 +85,13 @@ No se dispone de datos clínicos directos → el estado del paciente se **infier
   - Moderado (0.5–0.8)  
   - Alto (>0.8) :contentReference[oaicite:4]{index=4}  
 
-📌 Enfoque:
+ Enfoque:
 - Modelo interpretable  
 - Orientado a priorización, no a diagnóstico  
 
 ---
 
-## 📊 Insights clave
+## Insights clave
 
 - La **acumulación de patologías** es el principal driver de intensificación  
 - El modelo identifica mejor:
@@ -107,7 +107,7 @@ No se dispone de datos clínicos directos → el estado del paciente se **infier
 
 ---
 
-## ⚠️ Limitaciones
+## Limitaciones
 
 Este proyecto está diseñado para mostrar no solo lo que el modelo hace, sino **dónde falla y por qué**:
 
@@ -123,7 +123,7 @@ Este proyecto está diseñado para mostrar no solo lo que el modelo hace, sino *
 
 ---
 
-## 💡 Aplicación práctica
+## Aplicación práctica
 
 - Identificación proactiva de pacientes de alto riesgo  
 - Seguimiento farmacoterapéutico personalizado  
@@ -132,11 +132,11 @@ Este proyecto está diseñado para mostrar no solo lo que el modelo hace, sino *
   - negocios de salud
   - programas de prevención  
 
-👉 Enfoque: **herramienta de apoyo a la decisión, no sustituto clínico**
+Enfoque: **herramienta de apoyo a la decisión, no sustituto clínico**
 
 ---
 
-## 🚀 Valor del proyecto
+## Valor del proyecto
 
 Este trabajo demuestra que:
 
