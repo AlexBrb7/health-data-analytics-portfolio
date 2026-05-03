@@ -55,7 +55,7 @@ No se dispone de datos clínicos directos → el estado del paciente se **infier
   - incorporación de nuevos fármacos  
   - escalados terapéuticos  
 
-👉 Permite reconstruir la evolución clínica a partir de datos administrativos :contentReference[oaicite:2]{index=2}  
+ Permite reconstruir la evolución clínica a partir de datos administrativos :contentReference[oaicite:2]{index=2}  
 
 ---
 
@@ -103,7 +103,7 @@ Insight clave: el riesgo no depende de una variable aislada, sino de la **comple
   - progresión temprana  
 
 - Existen pacientes de alto riesgo que aún no han intensificado tratamiento →  
-  👉 potencial uso predictivo real (no solo retrospectivo) :contentReference[oaicite:5]{index=5}  
+   potencial uso predictivo real (no solo retrospectivo) :contentReference[oaicite:5]{index=5}  
 
 ---
 
