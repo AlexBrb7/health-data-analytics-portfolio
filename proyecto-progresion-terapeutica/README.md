@@ -15,7 +15,7 @@ Proyecto de análisis y modelización orientado a reconstruir la evolución tera
 
 ---
 
-## 🧠 Contexto
+## Contexto
 
 El síndrome metabólico representa un conjunto de patologías (hipertensión, dislipemia y diabetes) cuya coexistencia incrementa significativamente el riesgo cardiovascular.
 
